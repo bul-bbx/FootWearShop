@@ -1,0 +1,41 @@
+﻿@model Order
+
+@{
+    ViewData["Title"] = "Order Confirmation";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var categories = ViewBag.Categories as List<FootFetish.Models.Category>;
+}
+
+<h2>Thank you for your order!</h2>
+
+<p><strong>Order ID:</strong> @Model.OrderId</p>
+<p><strong>Order Date:</strong> @Model.OrderDate.ToString("g")</p>
+<p><strong>Address:</strong> @Model.Address</p>
+<p><strong>Payment Method:</strong> @Model.PaymentMethod</p>
+
+<h4>Items:</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product</th>
+            <th>Unit Price</th>
+            <th>Quantity</th>
+            <th>Subtotal</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.OrderItems)
+        {
+            <tr>
+                <td>@item.Product.Name</td>
+                <td>$@item.UnitPrice</td>
+                <td>@item.Quantity</td>
+                <td>$@(item.UnitPrice * item.Quantity)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h4>Total: $@Model.TotalAmount</h4>
+
+<a href="@Url.Action("Index", "Home")" class="btn btn-primary">Back to Home</a>

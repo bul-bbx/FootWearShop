@@ -1,0 +1,35 @@
+﻿@model List<FootFetish.Models.Order>
+@{
+    ViewData["Title"] = "My Orders";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var categories = ViewBag.Categories as List<FootFetish.Models.Category>;
+}
+
+<h2>My Orders</h2>
+
+@if (!Model.Any())
+{
+    <p>You have no orders yet.</p>
+}
+else
+{
+    foreach (var order in Model)
+    {
+        <div class="card mb-4">
+            <div class="card-header">
+                <strong>Order #@order.OrderId</strong> - @order.OrderDate.ToString("g")<br />
+                <small>Payment Method: @order.PaymentMethod</small><br />
+                <small>Address: @order.Address</small><br />
+                <small>Total: BGN @order.TotalAmount </small>
+            </div>
+            <ul class="list-group list-group-flush">
+                @foreach (var item in order.OrderItems)
+                {
+                    <li class="list-group-item">
+                        <strong>@item.Product.Name</strong> - Quantity: @item.Quantity, Unit Price: @item.UnitPrice.ToString("C")
+                    </li>
+                }
+            </ul>
+        </div>
+    }
+}

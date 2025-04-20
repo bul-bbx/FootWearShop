@@ -1,0 +1,59 @@
+﻿@model IEnumerable<FootFetish.Models.Product>
+@{
+    ViewData["Title"] = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var categories = ViewBag.Categories as List<FootFetish.Models.Category>;
+}
+
+<div class="container mt-4">
+    <div class="jumbotron p-5 mb-4 bg-light rounded-3">
+        <div class="container-fluid py-3">
+            <h1 class="display-5 fw-bold">Welcome to FootFetish 👟</h1>
+            <p class="col-md-8 fs-4">Discover premium footwear that fits your style. Browse by category or explore our latest products!</p>
+        </div>
+    </div>
+
+    <div class="row mb-4">
+        <div class="col-md-3">
+            <h4>Categories</h4>
+            <ul class="list-group">
+                @if (categories != null)
+                {
+                    @foreach (var cat in categories)
+                    {
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a asp-controller="Categories" asp-action="Details" asp-route-id="@cat.CategoryId">@cat.Name</a>
+                        </li>
+                    }
+                }
+            </ul>
+        </div>
+
+        <div class="col-md-9">
+            <h4>Featured Products</h4>
+            <div class="row">
+                @if (Model != null && Model.Any())
+                {
+                    @foreach (var product in Model)
+                    {
+                        <div class="col-md-4 mb-4">
+                            <div class="card h-100 product-card">
+                                <img src="@product.ImageUrl" class="card-img-top product-img" alt="@product.Name" />
+                                <div class="card-body">
+                                    <h5 class="card-title">@product.Name</h5>
+                                    <p class="card-text">@product.Description?.Substring(0, Math.Min(product.Description.Length, 60))...</p>
+                                    <p class="card-text"><strong>BGN @product.Price</strong></p>
+                                    <a asp-controller="Products" asp-action="Details" asp-route-id="@product.ProductId" class="btn btn-primary">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <p>No products found.</p>
+                }
+            </div>
+        </div>
+    </div>
+</div>

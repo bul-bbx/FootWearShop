@@ -1,0 +1,37 @@
+﻿@model FootFetish.Models.Order
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var categories = ViewBag.Categories as List<FootFetish.Models.Category>;
+}
+
+<h1>Order Details for Order ID: @Model.OrderId</h1>
+
+<p>User ID: @Model.UserId</p>
+<p>Order Date: @Model.OrderDate.ToString("MM/dd/yyyy")</p>
+<p>Payment Method: @Model.PaymentMethod</p>
+<p>Address: @Model.Address</p>
+<p>Total Amount: @Model.TotalAmount.ToString("C")</p>
+
+<h2>Order Items</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Quantity</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.OrderItems)
+        {
+            <tr>
+                <td>@item.ProductName</td>
+                <td>@item.Quantity</td>
+                <td>@item.UnitPrice</td>
+            </tr>
+        }
+    </tbody>
+    <div>
+        <a asp-action="Index" class="btn btn-info">Back to List</a>
+    </div>
+</table>

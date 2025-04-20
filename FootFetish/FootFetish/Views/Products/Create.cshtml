@@ -1,0 +1,87 @@
+﻿@model FootFetish.Models.Product
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var categories = ViewBag.Categories as List<FootFetish.Models.Category>;
+}
+
+<h1>Create</h1>
+
+<h4>Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <textarea asp-for="Description" class="form-control"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ImageUrl" class="control-label"></label>
+                <input asp-for="ImageUrl" class="form-control" />
+                <span asp-validation-for="ImageUrl" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="categoryId" class="control-label">Select Category</label>
+                <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId" onchange="updateCategory()">
+                    <option value="">-- Select a Category --</option>
+                </select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+            <input type="hidden" id="SelectedCategory" name="Category" />
+
+            <button type="submit" class="btn btn-primary">Create</button>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-info">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        function updateCategory() {
+            var categoryId = document.getElementById('CategoryId').value;
+            var selectedCategory = null;
+
+            var categories = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.Categories));
+
+            if (categoryId) {
+                selectedCategory = categories.find(cat => cat.Id == categoryId);
+            }
+
+
+            if (selectedCategory) {
+                document.getElementById('SelectedCategory').value = JSON.stringify(selectedCategory);
+            } else {
+                document.getElementById('SelectedCategory').value = ''; 
+            }
+        }
+
+        document.getElementById('createForm').addEventListener('submit', function (event) {
+            var selectedCategory = document.getElementById('SelectedCategory').value;
+            if (!selectedCategory) {
+                event.preventDefault(); 
+                alert('Please select a valid category.'); 
+            }
+        });
+    </script>
+}

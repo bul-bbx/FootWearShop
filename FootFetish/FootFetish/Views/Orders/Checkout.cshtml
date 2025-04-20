@@ -1,0 +1,38 @@
+﻿@model OrderViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var categories = ViewBag.Categories as List<FootFetish.Models.Category>;
+}
+
+<h2>Checkout</h2>
+
+<form asp-action="Checkout" method="post">
+    <div class="mb-3">
+        <label class="form-label">Payment Method</label>
+        <select asp-for="PaymentMethod" class="form-select">
+            <option value="Cash">Cash</option>
+            <option value="Credit Card">Credit Card</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label class="form-label">Delivery Address</label><br />
+        <input type="text" asp-for="Address" class="form-control" />
+    </div>
+
+    <h4>Cart Items:</h4>
+    <ul class="list-group mb-3">
+        @foreach (var item in Model.CartItems)
+        {
+            <li class="list-group-item d-flex justify-content-between">
+                <span>@item.Product.Name (x @item.Quantity)</span>
+                <span>$@(item.Product.Price * item.Quantity)</span>
+            </li>
+        }
+    </ul>
+
+    <h5>Total: $@Model.TotalAmount</h5>
+
+    <button type="submit" class="btn btn-success">Place Order</button>
+    <input type="hidden" name=""></input>
+</form>

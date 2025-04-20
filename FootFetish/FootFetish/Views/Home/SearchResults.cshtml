@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Product>
+@{
+    ViewData["Title"] = "Search Results";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var categories = ViewBag.Categories as List<FootFetish.Models.Category>;
+}
+
+<h2>Search Results for '@ViewBag.SearchTerm'</h2>
+
+@if (!Model.Any())
+{
+    <p>No products found.</p>
+}
+else
+{
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="product-card">
+                    <img src="@product.ImageUrl" alt="@product.Name" class="card-img-top product-img" />
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Name</h5>
+                        <p class="card-text">@product.Description</p>
+                        <p class="card-text"><strong>Price:</strong> $@product.Price</p>
+                        <p class="card-text"><strong>Category:</strong> @product.Category?.Name</p>
+                        <a href="@Url.Action("Details", "Products", new { id = product.ProductId })" class="btn btn-primary">View</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
