@@ -74,6 +74,7 @@ public class OrdersController : Controller
             PaymentMethod = model.PaymentMethod,
             TotalAmount = cartItems.Sum(i => i.Product.Price * i.Quantity),
             Address = model.Address,
+            DeliveryMethod = model.DeliveryMethod,
             OrderItems = cartItems.Select(item => new OrderItem
             {
                 ProductId = item.ProductId,

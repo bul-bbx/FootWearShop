@@ -10,6 +10,7 @@ namespace FootFetish.Models
         public DateTime OrderDate { get; set; } = DateTime.Now;
         public string PaymentMethod { get; set; }
         public decimal TotalAmount { get; set; }
+        public string DeliveryMethod { get; set; }
         public string Address { get; set; }
 
         public List<OrderItem> OrderItems { get; set; }

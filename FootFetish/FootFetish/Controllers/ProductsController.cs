@@ -20,29 +20,13 @@ namespace FootFetish.Controllers
             _context = context;
         }
 
-        // GET: Products
         public async Task<IActionResult> Index()
         {
-            var products = _context.Products.Include(p => p.Category);
+
+            var products = _context.Products;
             return View(products);
         }
 
-        // GET: Products/Details/5
-        public async Task<IActionResult> Details(int? id)
-        {
-            var product = await _context.Products
-        .FirstOrDefaultAsync(p => p.ProductId == id);
-
-            if (product == null)
-            {
-                return NotFound();
-            }
-
-            var cat = await _context.Categories.FirstOrDefaultAsync(c => c.CategoryId == product.CategoryId);
-            ViewBag.CategoryName = cat.Name;
-
-            return View("~/Views/Products/Details.cshtml", product);
-        }
 
         [Authorize(Roles = "Admin")]
         public IActionResult Create()
@@ -54,25 +38,48 @@ namespace FootFetish.Controllers
         [Authorize(Roles = "Admin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ProductId,Name,Description,Price,ImageUrl,CategoryId")] Product product)
+        public async Task<IActionResult> Create([Bind("ProductId,Name,Description,Price,ImageUrl,CategoryIds")] Product product)
         {
-            if (product.CategoryId > 0)
-            {
-                product.Category = await _context.Categories.FindAsync(product.CategoryId);
-            }
-           
+
             if (!ModelState.IsValid)
             {
                 return View(product);
             }
 
             _context.Products.Add(product);
-            var cat = await _context.Categories.FindAsync(product.CategoryId);
-            cat.Products.Add(product);
-            _context.Update(cat);
+
+            foreach (var catid in product.CategoryIds)
+            {
+                var cat = await _context.Categories.FindAsync(catid);
+                cat.Products.Add(product);
+                _context.Update(cat);
+            }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
+        }
+
+        public async Task<IActionResult> Details(int? id)
+        {
+            var product = await _context.Products
+        .FirstOrDefaultAsync(p => p.ProductId == id);
+
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            List<string> cats = new List<string>();
+
+            foreach(int catid in product.CategoryIds)
+            {
+                var categ = await _context.Categories.FirstOrDefaultAsync(c => c.CategoryId == catid);
+                cats.Add(categ.Name);
+            }
+
+            ViewBag.CategoryNames = cats;
+
+            return View("~/Views/Products/Details.cshtml", product);
         }
 
         [Authorize(Roles = "Admin")]
@@ -88,7 +95,7 @@ namespace FootFetish.Controllers
             {
                 return NotFound();
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "Name", product.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "Name", product.CategoryIds);
             return View(product);
         }
 
@@ -122,7 +129,7 @@ namespace FootFetish.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "Name", product.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "Name", product.CategoryIds);
             return View(product);
         }
 
@@ -133,14 +140,21 @@ namespace FootFetish.Controllers
             {
                 return NotFound();
             }
-
+            
             var product = await _context.Products
-                .Include(p => p.Category)
                 .FirstOrDefaultAsync(m => m.ProductId == id);
             if (product == null)
             {
                 return NotFound();
             }
+            List<string> cats = new List<string>();
+
+            foreach(int catid in product.CategoryIds)
+            {
+                var cat = await _context.Categories.FirstOrDefaultAsync(c => c.CategoryId == catid);
+                cats.Add(cat.Name);
+            }
+            ViewBag.Categories = cats;
 
             return View(product);
         }

@@ -36,10 +36,13 @@
             <img src="@Model.ImageUrl" />
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Category)
+            Categories
         </dt>
         <dd class="col-sm-10">
-            @ViewBag.CategoryName
+            @foreach(var categor in ViewBag.CategoryNames)
+            {
+                @categor <p></p>
+            }
         </dd>
     </dl>
     <form asp-controller="Cart" asp-action="AddToCart" method="post">

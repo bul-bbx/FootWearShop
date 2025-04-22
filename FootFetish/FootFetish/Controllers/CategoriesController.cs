@@ -41,8 +41,7 @@ namespace FootFetish.Controllers
                 return NotFound();
             }
             var products = await _context.Products
-            .Include(p => p.Category)
-        .Where(p => p.CategoryId == category.CategoryId)
+        .Where(p => p.CategoryIds.Contains((int)id))
         .ToListAsync();
 
             ViewBag.CategoryName = category.Name;

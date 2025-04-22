@@ -1,5 +1,7 @@
 ﻿@using Microsoft.AspNetCore.Identity
 @inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
 @{
     var categories = ViewBag.Categories as List<FootFetish.Models.Category>;
 }
@@ -58,6 +60,9 @@
 
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" asp-controller="Products" asp-action="Index">Products</a>
                     </li>
 
@@ -80,11 +85,12 @@
                             }
                         </ul>
                     </li>
-
-                    <li class="nav-item ms-auto">
-                        <a asp-controller="Cart" asp-action="Index"><i class="fa fa-shopping-cart nav-link" style="font-size:24px"></i></a>
-                    </li>
-
+                    @if (SignInManager.IsSignedIn(User))
+                    {
+                        <li class="nav-item ms-auto">
+                            <a asp-controller="Cart" asp-action="Index"><i class="fa fa-shopping-cart nav-link" style="font-size:24px"></i></a>
+                        </li>
+                    }
                     @if (User.IsInRole("Admin"))
                     {
                         <li class="nav-item dropdown">

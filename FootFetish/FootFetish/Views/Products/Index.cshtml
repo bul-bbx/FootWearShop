@@ -1,9 +1,13 @@
 ﻿@model IEnumerable<FootFetish.Models.Product>
+@using System
+@inject FootFetish.Data.ApplicationDbContext _context
 
 @{
     ViewData["Title"] = "Products";
     Layout = "~/Views/Shared/_Layout.cshtml";
     var categories = ViewBag.Categories as List<FootFetish.Models.Category>;
+    var allCats = _context.Categories;
+    List<string> catNames = new List<string>();
 }
 
 <h1>Products</h1>
@@ -29,7 +33,7 @@
                 @Html.DisplayNameFor(model => model.First().ImageUrl)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.First().Category.Name)
+                Category
             </th>
             <th></th>
         </tr>
@@ -37,6 +41,22 @@
     <tbody>
         @foreach (var item in Model)
         {
+            @if(catNames.Count > 0)
+            {
+                catNames.Clear();
+            }
+            @foreach (var catid in item.CategoryIds)
+            {
+
+                @foreach (var category in allCats)
+                {
+                    @if (category.CategoryId == catid)
+                    {
+                        catNames.Add(category.Name);
+                    }
+                }
+
+            }
             <tr>
                 <td>
                     @Html.DisplayFor(modelItem => item.Name)
@@ -45,13 +65,16 @@
                     @Html.DisplayFor(modelItem => item.Description)
                 </td>
                 <td>
-                    BGN @Html.DisplayFor(modelItem => item.Price, "{0:C}")  
+                    BGN @Html.DisplayFor(modelItem => item.Price, "{0:C}")
                 </td>
                 <td>
-                    <img src="@item.ImageUrl" alt="@item.Name" style="max-width:100px; max-height:100px;" /> 
+                    <img src="@item.ImageUrl" alt="@item.Name" style="max-width:100px; max-height:100px;" />
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Category.Name) 
+                    @foreach (var cat in catNames)
+                    {
+                        <p>@cat</p>
+                    }
                 </td>
                 <td>
                     @if (User.IsInRole("Admin"))

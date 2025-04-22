@@ -4,61 +4,120 @@
     ViewData["Title"] = "Register";
 }
 
-<h1>@ViewData["Title"]</h1>
+<style>
+    .form-box {
+        max-width: 300px;
+        background: #f1f7fe;
+        overflow: hidden;
+        border-radius: 16px;
+        color: #010101;
+    }
 
-<div class="row">
-    <div class="col-md-4">
-        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
-            <h2>Create a new account.</h2>
+    .form {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        padding: 32px 24px 24px;
+        gap: 16px;
+        background-color: #f1f7fe;
+        color: #010101;
+        text-align: center;
+    }
+
+    /*Form text*/
+    .title {
+        font-weight: bold;
+        font-size: 1.6rem;
+    }
+
+    .subtitle {
+        font-size: 1rem;
+        color: #666;
+    }
+
+    /*Inputs box*/
+    .form-container {
+        border-radius: 8px;
+        background-color: #f1f7fe;
+        margin: 1rem 0 .5rem;
+        width: 100%;
+    }
+
+    .input {
+        background: none;
+        border: 0;
+        outline: 0;
+        height: 40px;
+        width: 100%;
+        border-bottom: 1px solid #eee;
+        font-size: .9rem;
+        padding: 8px 15px;
+        border: 0;
+        margin: 2px;
+    }
+
+    .form-section {
+        padding: 16px;
+        font-size: .85rem;
+        background-color: #e0ecfb;
+        box-shadow: rgb(0 0 0 / 8%) 0 -2px;
+    }
+
+        .form-section input {
+            font-weight: bold;
+            color: #0066ff;
+            transition: color .3s ease;
+        }
+
+            .form-section input:hover {
+                color: #005ce6;
+                text-decoration: underline;
+            }
+
+    .form button {
+        background-color: #0066ff;
+        color: #fff;
+        border: 0;
+        border-radius: 24px;
+        padding: 10px 16px;
+        font-size: 1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background-color .3s ease;
+    }
+
+        .form button:hover {
+            background-color: #005ce6;
+        }
+</style>
+
+
+
+<div style="display: grid; justify-content: center; align-content: center; padding-top: 150px;">
+    <div class="form-box">
+        <form class="form" id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <h1 class="title">@ViewData["Title"]</h1>
+            <h2 class="subtitle">Create a new account.</h2>
             <hr />
             <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
-            <div class="form-floating mb-3">
-                <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
-                <label asp-for="Input.Email">Email</label>
+            <div class="form-container">
+                <input asp-for="Input.Email" class="input" autocomplete="username" aria-required="true" placeholder="Email" />
                 <span asp-validation-for="Input.Email" class="text-danger"></span>
-            </div>
-            <div class="form-floating mb-3">
-                <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
-                <label asp-for="Input.Password">Password</label>
+                <br />
+                <br />
+                <input asp-for="Input.Password" class="input" autocomplete="new-password" aria-required="true" placeholder="Password" />
                 <span asp-validation-for="Input.Password" class="text-danger"></span>
-            </div>
-            <div class="form-floating mb-3">
-                <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
-                <label asp-for="Input.ConfirmPassword">Confirm Password</label>
+                <br />
+                <br />
+                <input asp-for="Input.ConfirmPassword" class="input" autocomplete="new-password" aria-required="true" placeholder="Repeat Password" />
                 <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                <br />
             </div>
             <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
         </form>
-    </div>
-    <div class="col-md-6 col-md-offset-2">
-        <section>
-            <h3>Use another service to register.</h3>
-            <hr />
-            @{
-                if ((Model.ExternalLogins?.Count ?? 0) == 0)
-                {
-                    <div>
-                        <p>
-                            There are no external authentication services configured. See this <a href="https://go.microsoft.com/fwlink/?LinkID=532715">article
-                            about setting up this ASP.NET application to support logging in via external services</a>.
-                        </p>
-                    </div>
-                }
-                else
-                {
-                    <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
-                        <div>
-                            <p>
-                                @foreach (var provider in Model.ExternalLogins!)
-                                {
-                                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
-                                }
-                            </p>
-                        </div>
-                    </form>
-                }
-            }
-        </section>
+        <div class="form-section">
+            <p>Have an account? <a asp-area="Identity" asp-page="/Account/Login">Log in</a> </p>
+        </div>
     </div>
 </div>
 

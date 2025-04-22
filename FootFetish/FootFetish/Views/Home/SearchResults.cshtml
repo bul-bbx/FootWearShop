@@ -23,7 +23,6 @@ else
                         <h5 class="card-title">@product.Name</h5>
                         <p class="card-text">@product.Description</p>
                         <p class="card-text"><strong>Price:</strong> $@product.Price</p>
-                        <p class="card-text"><strong>Category:</strong> @product.Category?.Name</p>
                         <a href="@Url.Action("Details", "Products", new { id = product.ProductId })" class="btn btn-primary">View</a>
                     </div>
                 </div>

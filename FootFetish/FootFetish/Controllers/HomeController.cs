@@ -20,13 +20,13 @@ namespace FootFetish.Controllers
 
         public async Task<IActionResult> Index(string? search, int? categoryId)
         {
-            var query = _context.Products.Include(p => p.Category).AsQueryable();
+            var query = _context.Products.AsQueryable();
 
             if (!string.IsNullOrEmpty(search))
                 query = query.Where(p => p.Name.Contains(search));
 
             if (categoryId.HasValue)
-                query = query.Where(p => p.CategoryId == categoryId);
+                query = query.Where(p => p.CategoryIds.Contains((int)categoryId));
 
             ViewBag.Categories = await _context.Categories.ToListAsync(); 
             var products = await query.ToListAsync(); 

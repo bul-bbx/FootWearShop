@@ -20,7 +20,6 @@ namespace FootFetish.Models
         [Url]
         public string ImageUrl { get; set; }
 
-        public int CategoryId { get; set; }
-        public Category? Category { get; set; }  
+        public List<int> CategoryIds { get; set; }
     }
 }

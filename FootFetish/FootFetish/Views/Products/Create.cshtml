@@ -39,10 +39,20 @@
 
             <div class="form-group">
                 <label for="categoryId" class="control-label">Select Category</label>
-                <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId" onchange="updateCategory()">
+                <select asp-for="CategoryIds[0]" class="form-control" asp-items="ViewBag.CategoryId" onchange="updateCategory()">
                     <option value="">-- Select a Category --</option>
                 </select>
-                <span asp-validation-for="CategoryId" class="text-danger"></span>
+                <span asp-validation-for="CategoryIds[0]" class="text-danger"></span>
+
+                <select asp-for="CategoryIds[1]" class="form-control" asp-items="ViewBag.CategoryId" onchange="updateCategory()">
+                    <option value="">-- Select a Category --</option>
+                </select>
+                <span asp-validation-for="CategoryIds[1]" class="text-danger"></span>
+
+                <select asp-for="CategoryIds[2]" class="form-control" asp-items="ViewBag.CategoryId" onchange="updateCategory()">
+                    <option value="">-- Select a Category --</option>
+                </select>
+                <span asp-validation-for="CategoryIds[2]" class="text-danger"></span>
             </div>
             <input type="hidden" id="SelectedCategory" name="Category" />
 

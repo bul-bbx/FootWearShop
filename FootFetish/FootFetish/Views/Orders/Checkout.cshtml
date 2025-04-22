@@ -19,6 +19,13 @@
         <label class="form-label">Delivery Address</label><br />
         <input type="text" asp-for="Address" class="form-control" />
     </div>
+    <div class="form-group">
+        <label class="form-label">Delivery Method</label><br />
+        <select asp-for="DeliveryMethod" class="form-select">
+            <option value="Office">Office</option>
+            <option value="To Address">To Address</option>
+        </select>
+    </div>
 
     <h4>Cart Items:</h4>
     <ul class="list-group mb-3">

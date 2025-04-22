@@ -38,10 +38,13 @@
             @Html.DisplayFor(model => model.ImageUrl)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Category)
+            Categories
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Category.CategoryId)
+            @foreach(var name in ViewBag.Categories)
+            {
+                <p>@name</p>
+            }
         </dd>
     </dl>
     

@@ -3,55 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_FootFetish_e82e87f9_ccdb_476c_b63e_44ebaee1f0c8/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|c:\\users\\44740\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 mvc\\footfetish\\footfetish\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\orders\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\orders\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250420212022_LastOne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FootFetish\\Data\\Migrations\\20250420212022_LastOne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|c:\\users\\44740\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 mvc\\footfetish\\footfetish\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,88 +27,138 @@
       "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|c:\\users\\44740\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 mvc\\footfetish\\footfetish\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|c:\\users\\44740\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 mvc\\footfetish\\footfetish\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|c:\\users\\44740\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 mvc\\footfetish\\footfetish\\views\\orders\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\orders\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\home\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\home\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|c:\\users\\44740\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 mvc\\footfetish\\footfetish\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|c:\\users\\44740\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 mvc\\footfetish\\footfetish\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|c:\\users\\44740\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 mvc\\footfetish\\footfetish\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_FootFetish_e82e87f9_ccdb_476c_b63e_44ebaee1f0c8/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|c:\\users\\44740\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 mvc\\footfetish\\footfetish\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|c:\\users\\44740\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 mvc\\footfetish\\footfetish\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|c:\\users\\44740\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 mvc\\footfetish\\footfetish\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_FootFetish_e82e87f9_ccdb_476c_b63e_44ebaee1f0c8/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\home\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\home\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\orders\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\orders\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\orders\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\orders\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -154,20 +169,12 @@
       "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|c:\\users\\44740\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 mvc\\footfetish\\footfetish\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|c:\\users\\44740\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 mvc\\footfetish\\footfetish\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:footfetish\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\footfetish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -184,6 +191,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250419193701_ProbablyFinalImplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:FootFetish\\Data\\Migrations\\20250419193701_ProbablyFinalImplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250420212022_LastOne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:FootFetish\\Data\\Migrations\\20250420212022_LastOne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250421160523_lastchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:FootFetish\\Data\\Migrations\\20250421160523_lastchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250421160851_unndo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:FootFetish\\Data\\Migrations\\20250421160851_unndo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250421154156_changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:FootFetish\\Data\\Migrations\\20250421154156_changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250421130240_DeliveryMethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB97561E-6D8E-4C26-8908-165A4BAD42A7}|FootFetish\\FootFetish.csproj|solutionrelative:FootFetish\\Data\\Migrations\\20250421130240_DeliveryMethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -193,125 +220,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "FootFetish\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\Order.cs",
-              "RelativeToolTip": "FootFetish\\Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T13:45:10.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\Details.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Orders\\Details.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\Details.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Orders\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T20:44:01.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Delete.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Products\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Delete.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Products\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T19:36:50.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Checkout.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\Checkout.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Orders\\Checkout.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\Checkout.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Orders\\Checkout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T19:20:30.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "FootFetish\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "FootFetish\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAkwEsAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:03:22.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "OrderViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\OrderViewModel.cs",
-              "RelativeDocumentMoniker": "FootFetish\\Models\\OrderViewModel.cs",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\OrderViewModel.cs",
-              "RelativeToolTip": "FootFetish\\Models\\OrderViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T19:18:20.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Products\\Create.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T14:24:58.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderConfirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\OrderConfirmation.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Orders\\OrderConfirmation.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\OrderConfirmation.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Orders\\OrderConfirmation.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T19:21:10.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dbo.Orders [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_FootFetish_e82e87f9_ccdb_476c_b63e_44ebaee1f0c8/True/SqlTable/dbo.Orders.sql",
-              "ToolTip": "dbo.Orders [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-20T21:20:52.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\Index.cshtml",
               "RelativeDocumentMoniker": "FootFetish\\Views\\Orders\\Index.cshtml",
@@ -319,181 +232,11 @@
               "RelativeToolTip": "FootFetish\\Views\\Orders\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T20:38:55.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T20:38:55.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFQAAABqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T20:27:19.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Details.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Products\\Details.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Details.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Products\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T15:55:23.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20250420212022_LastOne.cs",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250420212022_LastOne.cs",
-              "RelativeDocumentMoniker": "FootFetish\\Data\\Migrations\\20250420212022_LastOne.cs",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250420212022_LastOne.cs",
-              "RelativeToolTip": "FootFetish\\Data\\Migrations\\20250420212022_LastOne.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T21:20:22.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MyOrders.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\MyOrders.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Orders\\MyOrders.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\MyOrders.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Orders\\MyOrders.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T18:46:47.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Edit.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Products\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Edit.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Products\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T19:36:37.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T13:50:52.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T20:32:59.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T21:12:05.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SearchResults.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Home\\SearchResults.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Home\\SearchResults.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Home\\SearchResults.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Home\\SearchResults.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T18:32:08.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T19:37:33.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T18:49:34.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Categories\\Index.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Index.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Categories\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T13:53:01.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Edit.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Categories\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Edit.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Categories\\Edit.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T19:36:30.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 7,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Details.cshtml",
               "RelativeDocumentMoniker": "FootFetish\\Views\\Categories\\Details.cshtml",
@@ -501,168 +244,182 @@
               "RelativeToolTip": "FootFetish\\Views\\Categories\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T17:43:13.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T17:43:13.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Delete.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Categories\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Delete.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Categories\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
+              "DocumentIndex": 6,
+              "Title": "dbo.Orders [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_FootFetish_e82e87f9_ccdb_476c_b63e_44ebaee1f0c8/True/SqlTable/dbo.Orders.sql",
+              "ToolTip": "dbo.Orders [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-20T21:20:52.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T19:37:17.639Z",
+              "WhenOpened": "2025-04-15T20:27:19.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Create.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Categories\\Create.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Create.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Categories\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T14:08:50.381Z",
+              "WhenOpened": "2025-04-15T20:32:59.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FootFetish\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FootFetish\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-15T20:28:53.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "FootFetish\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAHkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T13:15:54.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "FootFetish\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "FootFetish\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAawCsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T19:29:53.693Z",
+              "WhenOpened": "2025-04-15T13:50:52.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Program.cs",
-              "RelativeDocumentMoniker": "FootFetish\\Program.cs",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Program.cs",
-              "RelativeToolTip": "FootFetish\\Program.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAACoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T13:08:02.912Z",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "FootFetish\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAIwHUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T18:29:09.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "FootFetish\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\DbInitializer.cs",
-              "RelativeToolTip": "FootFetish\\DbInitializer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T20:46:59.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "FootFetish\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\CartController.cs",
-              "RelativeToolTip": "FootFetish\\Controllers\\CartController.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAmwCkAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T16:58:34.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "FootFetish\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\Category.cs",
-              "RelativeToolTip": "FootFetish\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T13:44:42.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "FootFetish\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\OrderItem.cs",
-              "RelativeToolTip": "FootFetish\\Models\\OrderItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:06:59.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 9,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "FootFetish\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "FootFetish\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAKMAAAAAAAAAAAAYwDMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T13:50:06.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T13:50:06.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FootFetish\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FootFetish\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAiwEsAAAArAAAA",
+              "DocumentIndex": 12,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\CartController.cs",
+              "RelativeToolTip": "FootFetish\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:42:58.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T16:58:34.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\Order.cs",
+              "RelativeToolTip": "FootFetish\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:45:10.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "FootFetish\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "FootFetish\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAKkAAAAAAAAAAAAAAEcAAAAhAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T13:47:49.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T13:47:49.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "FootFetish\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "FootFetish\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FootFetish\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:36:44.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T16:42:58.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\Product.cs",
+              "RelativeToolTip": "FootFetish\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:39:40.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\CartItem.cs",
+              "RelativeToolTip": "FootFetish\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:05:33.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "FootFetish\\Models\\Cart.cs",
@@ -670,38 +427,368 @@
               "RelativeToolTip": "FootFetish\\Models\\Cart.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:38:17.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T16:38:17.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250421160523_lastchange.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250421160523_lastchange.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Data\\Migrations\\20250421160523_lastchange.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250421160523_lastchange.cs",
+              "RelativeToolTip": "FootFetish\\Data\\Migrations\\20250421160523_lastchange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:05:23.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T15:55:23.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FootFetish\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:36:44.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SearchResults.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Home\\SearchResults.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Home\\SearchResults.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Home\\SearchResults.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Home\\SearchResults.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T18:32:08.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwC0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T19:36:50.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T18:49:34.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250421160851_unndo.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250421160851_unndo.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Data\\Migrations\\20250421160851_unndo.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250421160851_unndo.cs",
+              "RelativeToolTip": "FootFetish\\Data\\Migrations\\20250421160851_unndo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:08:52.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_FootFetish_e82e87f9_ccdb_476c_b63e_44ebaee1f0c8/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-21T16:06:37.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T19:36:37.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T14:08:50.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswDYAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T14:24:58.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Orders\\OrderConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Orders\\OrderConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T19:21:10.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250421154156_changes.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250421154156_changes.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Data\\Migrations\\20250421154156_changes.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250421154156_changes.cs",
+              "RelativeToolTip": "FootFetish\\Data\\Migrations\\20250421154156_changes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:41:56.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250421130240_DeliveryMethod.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250421130240_DeliveryMethod.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Data\\Migrations\\20250421130240_DeliveryMethod.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250421130240_DeliveryMethod.cs",
+              "RelativeToolTip": "FootFetish\\Data\\Migrations\\20250421130240_DeliveryMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:02:40.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MyOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\MyOrders.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Orders\\MyOrders.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\MyOrders.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Orders\\MyOrders.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T18:46:47.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T20:44:01.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Models\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\OrderViewModel.cs",
+              "RelativeToolTip": "FootFetish\\Models\\OrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:18:20.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "FootFetish\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAASwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:03:22.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Orders\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Orders\\Checkout.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Orders\\Checkout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T19:20:30.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250420212022_LastOne.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250420212022_LastOne.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Data\\Migrations\\20250420212022_LastOne.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250420212022_LastOne.cs",
+              "RelativeToolTip": "FootFetish\\Data\\Migrations\\20250420212022_LastOne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T21:20:22.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T21:12:05.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T19:37:33.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T13:53:01.93Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "FootFetish\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\CartItem.cs",
-              "RelativeToolTip": "FootFetish\\Models\\CartItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAYAAAAMAAAA",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T19:36:30.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T19:37:17.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "FootFetish\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "FootFetish\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T19:29:53.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Program.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Program.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Program.cs",
+              "RelativeToolTip": "FootFetish\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:05:33.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T13:08:02.912Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "FootFetish\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\Product.cs",
-              "RelativeToolTip": "FootFetish\\Models\\Product.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBcAAAAxAAAA",
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "FootFetish\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\DbInitializer.cs",
+              "RelativeToolTip": "FootFetish\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T13:39:40.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T20:46:59.117Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\Category.cs",
+              "RelativeToolTip": "FootFetish\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:44:42.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "FootFetish\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Models\\OrderItem.cs",
+              "RelativeToolTip": "FootFetish\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:06:59.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "_ManageNav.cshtml",
               "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
               "RelativeDocumentMoniker": "FootFetish\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
@@ -709,12 +796,11 @@
               "RelativeToolTip": "FootFetish\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T19:25:08.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T19:25:08.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "FootFetish\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -722,12 +808,11 @@
               "RelativeToolTip": "FootFetish\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AQIAAHsAAAAAAAAAAAAkwIcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T19:29:15.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T19:29:15.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "20250419213809_last.cs",
               "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250419213809_last.cs",
               "RelativeDocumentMoniker": "FootFetish\\Data\\Migrations\\20250419213809_last.cs",
@@ -739,7 +824,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "20250419193701_ProbablyFinalImplement.cs",
               "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250419193701_ProbablyFinalImplement.cs",
               "RelativeDocumentMoniker": "FootFetish\\Data\\Migrations\\20250419193701_ProbablyFinalImplement.cs",
@@ -751,19 +836,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "FootFetish\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "FootFetish\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-15T20:28:53.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "bootstrap-reboot.css",
               "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
               "RelativeDocumentMoniker": "FootFetish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
@@ -775,7 +848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "20250415155413_CheckDb4.cs",
               "DocumentMoniker": "C:\\Users\\44740\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\\u043F\u0440\u043E\u0435\u043A\u0442 MVC\\FootFetish\\FootFetish\\Data\\Migrations\\20250415155413_CheckDb4.cs",
               "RelativeDocumentMoniker": "FootFetish\\Data\\Migrations\\20250415155413_CheckDb4.cs",
